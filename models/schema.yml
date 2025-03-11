@@ -5,6 +5,7 @@ sources:
   - name: So_Wine_Project
     tables:
       - name: RA_69_previous-1950-2023
+      -
 
 models:
     - name: my_first_dbt_model
