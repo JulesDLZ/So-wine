@@ -5,7 +5,23 @@ sources:
   - name: So_Wine_Project
     tables:
       - name: RA_69_previous-1950-2023
-      -
+      - name: Consommation_globale_par_habitant
+      - name: allregions_meteo_1980
+      - name: catnat_region_date
+      - name: conso_prod_vin_monde
+      - name: cout_secheresse
+      - name: dommages_assures_catnat
+      - name: prod_cepages_all
+      - name: prod_cepages_blancs
+      - name: prod_cepages_noirs
+      - name: recensement_pays_europe
+      - name: recolte_production_rendement_historique
+      - name: recolte_vins
+      - name: reconnaissance_catnat
+      - name: ventes_annuelles_par_couleurs
+      - name: ventes_annuelles_par_regions
+
+
 
 models:
     - name: my_first_dbt_model
