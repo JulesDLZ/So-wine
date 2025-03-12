@@ -20,6 +20,7 @@ sources:
       - name: reconnaissance_catnat
       - name: ventes_annuelles_par_couleurs
       - name: ventes_annuelles_par_regions
+      - name: ventes_par_categorie
 
 
 
